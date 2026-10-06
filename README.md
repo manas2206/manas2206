@@ -1,86 +1,97 @@
 <div align="center">
 
-<!-- ===================== HERO ===================== -->
+<!-- ================= HERO ================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=MANAS%20PANDEY&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Software%20Developer%20%7C%20Generative%20AI%20%7C%20Python%20%7C%20Backend&descAlignY=58&descSize=19" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,35:203A43,70:2C5364,100:6f42c1&height=280&section=header&text=MANAS%20PANDEY&fontSize=55&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%7C%20GENERATIVE%20AI%20%7C%20PYTHON%20%7C%20BACKEND&descAlignY=58&descSize=18"/>
+
+<!-- TYPING EFFECT -->
+
+<a href="https://manas-ai-portfolio.onrender.com/">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=750&lines=Building+AI-powered+applications+%F0%9F%A4%96;Python+%7C+FastAPI+%7C+Django+%7C+Flask+%F0%9F%90%8D;LLMs+%7C+RAG+%7C+LangChain+%7C+LangGraph+%F0%9F%A7%A0;Computer+Vision+%7C+YOLOv8+%7C+OpenCV+%F0%9F%91%81%EF%B8%8F;Turning+ideas+into+production-ready+systems+%E2%9A%A1" />
+
+</a>
 
 <br>
 
+<!-- MAIN CTA -->
+
 <a href="https://manas-ai-portfolio.onrender.com/">
-<img src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20PORTFOLIO-6f42c1?style=for-the-badge&labelColor=181717" alt="Portfolio">
+
+<img src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20PORTFOLIO-8B5CF6?style=for-the-badge&labelColor=111827" />
+
 </a>
 
 <br><br>
 
 <a href="https://linkedin.com/in/pandeymanas01">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-&nbsp;
 
 <a href="https://github.com/manas2206">
-<img src="https://img.shields.io/badge/GITHUB-manas2206-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-manas2206-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-&nbsp;
-
 <a href="mailto:immanaspandey@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<a href="https://manas-ai-portfolio.onrender.com/">
-🌐 <b>manas-ai-portfolio.onrender.com</b>
-</a>
+<img src="https://komarev.com/ghpvc/?username=manas2206&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" />
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+<!-- ================= ABOUT ================= -->
+
+<div align="center">
+
+# 🧑‍💻 About Me
+
+</div>
+
+<img align="right" width="300" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif">
 
 I'm a **Software Developer** focused on building scalable backend
 systems, Generative AI applications, LLM-powered workflows and
 full-stack products.
 
-I enjoy turning ideas into production-ready applications with a
-focus on **clean architecture, APIs, automation and AI-powered
-solutions**.
+### ⚡ What I Build
 
-<div align="center">
+- 🤖 **Generative AI & LLM Applications**
+- 🧠 **RAG & Multi-Agent Systems**
+- 🐍 **Python Backend & REST APIs**
+- 👁️ **Computer Vision & OCR**
+- ⚛️ **Full-Stack Applications**
+- 🔐 **Authentication & Security Systems**
+- 🗄️ **Database-driven Applications**
+- ☁️ **Containerized & Cloud Deployments**
 
-| 🤖 Generative AI | 🐍 Backend | 👁️ AI / ML |
-|:---:|:---:|:---:|
-| LLMs · RAG | Python · FastAPI | YOLOv8 · OpenCV |
-| LangChain · LangGraph | Django · Flask | OCR · ML |
-
-| ⚛️ Frontend | 🗄️ Databases | ☁️ DevOps |
-|:---:|:---:|:---:|
-| React · Redux | MySQL · PostgreSQL | Docker · CI/CD |
-| Full Stack | MongoDB · Redis | AWS · GCP · Linux |
-
-</div>
+<br clear="right"/>
 
 ---
 
-# 🛠️ Tech Stack
+<!-- ================= TECH STACK ================= -->
 
 <div align="center">
 
-### 💻 Languages
+# ⚡ Technology Universe
+
+### 🐍 Languages
 
 <img src="https://skillicons.dev/icons?i=python,js" />
 
 <br><br>
 
-### ⚡ Backend & Frameworks
+### 🚀 Backend
 
 <img src="https://skillicons.dev/icons?i=fastapi,django,flask" />
 
 <br><br>
 
-### 🎨 Frontend
+### ⚛️ Frontend
 
 <img src="https://skillicons.dev/icons?i=react,redux" />
 
@@ -100,68 +111,95 @@ solutions**.
 
 ### 🤖 AI / ML
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge">
-<img src="https://img.shields.io/badge/LangGraph-412991?style=for-the-badge">
-<img src="https://img.shields.io/badge/RAG-Generative%20AI-6f42c1?style=for-the-badge">
-<img src="https://img.shields.io/badge/Groq-LLM-black?style=for-the-badge">
-<img src="https://img.shields.io/badge/YOLOv8-Computer%20Vision-111111?style=for-the-badge">
-<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+<!-- ================= PORTFOLIO ================= -->
 
 <div align="center">
+
+# 🌐 Explore My Portfolio
+
+<a href="https://manas-ai-portfolio.onrender.com/">
+
+<img width="85%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:6f42c1,50:8B5CF6,100:203A43&height=120&section=header&text=🚀%20VIEW%20MY%20COMPLETE%20PORTFOLIO&fontSize=27&fontColor=FFFFFF&animation=twinkling"/>
+
+</a>
+
+<br>
+
+### 👇 Projects · Experience · Skills · Contact
+
+<a href="https://manas-ai-portfolio.onrender.com/">
+<b>🌐 manas-ai-portfolio.onrender.com</b>
+</a>
+
+</div>
+
+---
+
+<!-- ================= PROJECTS ================= -->
+
+<div align="center">
+
+# 🚀 Featured Projects
+
+</div>
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 🚗 Vehicle E-Challan
+### 🚗 Vehicle E-Challan
 
-**Automated Number Plate Recognition**
-
-`Python` `YOLOv8` `OpenCV`  
-`OCR` `FastAPI` `MongoDB`
+<img src="https://img.shields.io/badge/Computer_Vision-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square"/>
 
 Real-time traffic violation detection and
-number plate recognition system deployed
-on edge hardware.
+automated number plate recognition.
 
-### Highlights
+**Stack**
 
-- 🎯 YOLOv8 vehicle detection
-- 📷 OpenCV image processing
-- 🔎 OCR plate extraction
-- ⚡ FastAPI REST APIs
-- 🗄️ MongoDB backend
-- 📉 **40% reduction in manual review effort**
+`Python` `YOLOv8` `OpenCV` `OCR`  
+`FastAPI` `MongoDB` `Ubuntu`
+
+**Impact**
+
+📉 **40% reduction in manual review effort**
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🔐 SecureAuthX
+### 🔐 SecureAuthX
 
-**AI-Powered Authentication System**
+<img src="https://img.shields.io/badge/AI_Security-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square"/>
+
+AI-powered authentication platform with
+login anomaly detection.
+
+**Stack**
 
 `Python` `Django/Flask` `JWT`  
 `MySQL` `ML` `REST API`
 
-Reusable authentication platform with
-AI-based login anomaly detection.
+**Features**
 
-### Highlights
-
-- 🔑 Secure signup/login
-- 🎫 JWT authentication
-- 🛡️ RBAC
-- 🧠 Login anomaly detection
-- ⚠️ Risk-based verification
-- 🗄️ MySQL security architecture
+🧠 Anomaly Detection  
+🛡️ RBAC  
+🔑 JWT Authentication
 
 </td>
 
@@ -171,82 +209,89 @@ AI-based login anomaly detection.
 
 <td width="50%" valign="top">
 
-## 🧠 MindHeal
+### 🧠 MindHeal
 
-**Mental Wellness Platform**
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square"/>
+
+Full-stack mental wellness platform with
+real-time communication.
+
+**Stack**
 
 `React` `FastAPI` `MySQL`  
 `WebSocket` `JWT` `Redis` `AWS`
 
-Full-stack platform supporting users,
-therapists and administrators.
+**Features**
 
-### Highlights
-
-- 👥 Multi-role architecture
-- 📅 Appointment scheduling
-- 💬 Real-time WebSocket chat
-- 🔐 JWT & Google OAuth
-- 🛡️ Role-based access control
-- ☁️ Cloud deployment
+💬 Real-time Chat  
+📅 Appointments  
+🛡️ RBAC  
+☁️ Cloud Deployment
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🏫 SimpleTech Training
+### 🏫 SimpleTech Training
 
-**Institute Management Platform**
+<img src="https://img.shields.io/badge/Full_Stack-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square"/>
+
+Full-stack institute management platform.
+
+**Stack**
 
 `FastAPI` `React` `MySQL`  
 `Redis` `Celery` `Docker`
 
-Full-stack platform for managing training
-institute operations.
+**Features**
 
-### Highlights
-
-- 👨‍🎓 Student enrollment
-- 📅 Batch scheduling
-- 💰 Fee tracking
-- 📧 Async email workflows
-- ⚡ Celery + Redis
-- 🐳 Docker deployment
+👨‍🎓 Enrollment  
+📅 Scheduling  
+💰 Fee Tracking  
+📧 Async Workflows
 
 </td>
 
 </tr>
 </table>
 
-</div>
-
 ---
 
-# 💼 Professional Experience
+<!-- ================= EXPERIENCE ================= -->
 
-### 🏢 Senior Software Developer
+<div align="center">
+
+# 💼 Professional Journey
+
+</div>
+
+### 🟣 Senior Software Developer
 **iLogitek Business Solutions**  
 `May 2026 – Present`
 
 Building scalable backend services, REST APIs and
 data-processing modules using **FastAPI, Django and Flask**.
-Working with relational and NoSQL databases and
-Docker-based deployments.
+
+`FastAPI` `Django` `Flask` `MySQL` `PostgreSQL` `MongoDB` `Docker`
 
 ---
 
-### 💻 Software Developer
+### 🔵 Software Developer
 **Vinayan India Consulting**  
 `May 2025 – Dec 2025`
 
 Built an edge-deployed vehicle e-challan system using
 **YOLOv8, OpenCV, OCR, FastAPI and MongoDB**.
 
-> 📈 Reduced manual review effort by **40%**
+> 🚀 **40% reduction in manual review effort**
 
 ---
 
-### 🚆 Software Developer Intern
+### 🟢 Software Developer Intern
 **CRIS – Centre for Railway Information System**  
 `Jul 2024 – Sep 2024`
 
@@ -256,65 +301,35 @@ FastAPI model integration.
 
 ---
 
-# 🎓 Education
+<!-- ================= JOURNEY ================= -->
 
 <div align="center">
 
-### 🎓 Bachelor of Technology
-**Computer Science & Engineering**
-
-**Sunder Deep Engineering College**  
-`2021 – 2025`
-
-</div>
-
----
-
-# 🏆 Certifications & Achievements
-
-<div align="center">
-
-| Certification / Achievement | |
-|:---|:---:|
-| Microsoft Certified: Azure AI Fundamentals (AI-901) | 🏅 |
-| HackerRank 5-Star Python | ⭐ |
-| HackerRank 5-Star SQL | ⭐ |
-| TensorFlow, Deep Learning & NLP Training | 📚 |
-
-</div>
-
----
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=manas2206&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=manas2206&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🧠 Currently Exploring
-
-<div align="center">
+# 🧭 My Developer Journey
 
 ```text
-           GENERATIVE AI
-                 │
-                 ▼
-          LLM APPLICATIONS
-                 │
-                 ▼
-             RAG SYSTEMS
-                 │
-                 ▼
-           MULTI-AGENT AI
-                 │
-                 ▼
-       PROMPT OPTIMIZATION
-                 │
-                 ▼
-      SCALABLE AI BACKENDS
+Computer Science
+       │
+       ▼
+   Python & SQL
+       │
+       ▼
+ Backend Development
+       │
+       ├───────────────┐
+       ▼               ▼
+    FastAPI          Django
+       │               │
+       └───────┬───────┘
+               ▼
+            AI / ML
+               │
+       ┌───────┴────────┐
+       ▼                ▼
+ Computer Vision      LLMs
+       │                │
+    YOLOv8            RAG
+       │             Agents
+       └───────┬────────┘
+               ▼
+       Production AI Systems
